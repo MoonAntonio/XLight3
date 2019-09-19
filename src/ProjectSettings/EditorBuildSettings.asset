@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Borderless/BorderlessSampleScene.unity
-    guid: 7d60a31e0233798419c098f98124d628
+    path: Assets/XLight/Ruby/Escenas/main.unity
+    guid: 67530b9098a5b0a429d72c2aaccd9293
   m_configObjects: {}
